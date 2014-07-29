@@ -55,7 +55,10 @@ Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#e
 Incentives
 --
 
-- **5 free Devcon passes worth $99 each** to 5 teams (1 pass per team) for the **"Best Use of Concur APIs"**
+- **5 free Devcon passes worth $99 each** to 5 teams (1 pass per team) for the **"Best Use of Concur APIs"** (entries have to be uploaded as short YouTube videos ~1min or less)
+- Any team that uses the Concur API has a shot at two $50K prizes when they pitch their app to [The Perfect Trup Fund Awards](https://developer.concur.com/devcon/PerfectTripFundAwards)
+- Winners will be promoted to Concur's Blog http://concur.com/blog
+
 
 <a name="addl">Additional Information</a>
 --
