@@ -50,6 +50,8 @@ Mash-up  | Idea
 **Concur + parking** | User Concur itinerary info (hotel/flight booking) to find fastest route to parking
 **Concur + wifi service** | Identify if colleagues are on same flight and initiate chat session
 
+Find more app ideas [here](https://github.com/ismaelc/ConcurSharingEconomyHack#example)
+
 Incentives
 --
 
